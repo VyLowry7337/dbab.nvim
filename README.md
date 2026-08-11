@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> I am not the original author. I am simply creating this repository so that I can continue using
+> this plugin, as it seems the author's GitHub account, in it's entirety, is now gone.
+> Plugin's original author was __'Zerochae'__
+
 # dbab.nvim
 
 A lightweight database client for Neovim. Query databases directly from your editor.
